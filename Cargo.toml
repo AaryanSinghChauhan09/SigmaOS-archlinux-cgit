@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-cgit"
+name = "sigmaos_archlinux_cgit"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-cgit component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-cgit component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-cgit"
+name = "sigmaos_archlinux_cgit"
 path = "src/lib.rs"
